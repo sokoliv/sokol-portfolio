@@ -21,3 +21,11 @@
 Демонстрационный бот отвечает на частые вопросы по каталогу и собирает пожелания по услуге и времени. Клиент проверяет данные перед отправкой. Администратор уточняет условия и подтверждает запись лично. Демо использует настраиваемые ответы и работает без внешней AI-модели.
 
 **Технологии:** HTML, CSS, JavaScript, Node.js, SQLite, Telegram Bot API.
+
+## Галерея проектов
+
+[![Сайт SOKOL](https://raw.githubusercontent.com/sokoliv/sokol/main/sokol-cover.jpg)](https://github.com/sokoliv/sokol)
+[SOKOL — вся страница](https://github.com/sokoliv/sokol)
+
+[![Сайт GKate](https://raw.githubusercontent.com/sokoliv/gkate/main/gkate-cover.jpg)](https://github.com/sokoliv/gkate)
+[GKate — вся страница](https://github.com/sokoliv/gkate)
